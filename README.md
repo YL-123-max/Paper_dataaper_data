@@ -1,2 +1,2 @@
-# Paper_dataaper_data
+# Paper_data
 This is thesis data warehouse
