@@ -19,7 +19,7 @@ This is the description the current directory
 - 25：without operators R3, R6, and I3
 - 26：without operators R2, R3, R6, and I3
 
-Note that the runtime of the above experiments is 4mn
+Note that the runtime of the above experiments is 4mn millisecond
 - 27：runtime is 2mn millisecond
 - 28: runtime is 6nm millisecond
 - 29：runtime is 8nm millisecond
